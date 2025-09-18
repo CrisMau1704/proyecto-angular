@@ -1,6 +1,6 @@
 export default `<!doctype html>
 <html lang="en" data-beasties-container="">
-<head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><base href="https://github.com/CrisMau1704/proyecto-angular/">
+<head><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><base href="https://CrisMau1704.github.io/proyecto-angular/">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="">

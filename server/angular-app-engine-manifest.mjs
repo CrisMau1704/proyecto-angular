@@ -1,6 +1,6 @@
 
 export default {
-  basePath: 'https://github.com/CrisMau1704/proyecto-angular',
+  basePath: 'https://CrisMau1704.github.io/proyecto-angular',
   supportedLocales: {
   "en-US": ""
 },
